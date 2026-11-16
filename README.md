@@ -1,2 +1,1 @@
-# cdro-19157-repro
-CDRO-19157 dslsync AmbiguousObjectException reproduction repo
+# DSL Sync Test Repo for CDRO-19157 reproduction
